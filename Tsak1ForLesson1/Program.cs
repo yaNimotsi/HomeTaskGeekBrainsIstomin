@@ -14,6 +14,7 @@ namespace Tsak1ForLesson1
             Console.Write("Укажите свое имя: ");
             var userName = Console.ReadLine();
             Console.WriteLine("Привет {0}, сегодня {1}",userName, dToday );
+            Console.WriteLine("Привет {userName}, сегодня {DateTime.Now.ToString(\"D\")}");
             Console.ReadLine();
         }
     }
