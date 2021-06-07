@@ -1,2 +1,3 @@
-# HomeTaskGeekBrainsIstomin
-Для расположения домашних заданий (Истомин И.)
+# HomeTaskGeekBrains
+
+Для расположения домашних заданий
